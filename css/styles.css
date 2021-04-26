@@ -1,0 +1,17 @@
+body {
+  background-color: powderblue;
+}
+
+h1 {
+  color: #02475e;
+}
+
+hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    border-spacing: 2px;
+    width: 5%;
+  }
